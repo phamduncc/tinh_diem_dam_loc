@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class AppConstants {
-  static const String appName = 'Sâm Điểm';
+  static const String appName = 'Điểm Sâm';
   static const String appSubtitle = 'Sổ điểm Sâm lốc Offline';
   static const String appVersion = 'v1.0.0';
 

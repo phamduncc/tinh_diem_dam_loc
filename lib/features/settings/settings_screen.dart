@@ -140,7 +140,7 @@ class SettingsScreen extends StatelessWidget {
                         borderRadius: BorderRadius.circular(8),
                       ),
                       child: const Text(
-                        '♠ SÂM ĐIỂM',
+                        '♠ ĐIỂM SÂM',
                         style: TextStyle(
                           color: Colors.white,
                           fontWeight: FontWeight.bold,

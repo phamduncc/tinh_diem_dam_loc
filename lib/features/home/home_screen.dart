@@ -46,7 +46,7 @@ class HomeScreen extends StatelessWidget {
                           borderRadius: BorderRadius.circular(8),
                         ),
                         child: const Text(
-                          '♠ SÂM',
+                          '♠ ĐIỂM',
                           style: TextStyle(
                             color: Colors.black,
                             fontWeight: FontWeight.w900,
@@ -57,7 +57,7 @@ class HomeScreen extends StatelessWidget {
                       ),
                       const SizedBox(width: 8),
                       const Text(
-                        'ĐIỂM',
+                        'SÂM',
                         style: TextStyle(
                           fontWeight: FontWeight.w900,
                           fontSize: 22,
